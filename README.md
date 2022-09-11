@@ -1,6 +1,8 @@
+
+![github-header-image](https://user-images.githubusercontent.com/90589221/189510219-a8d90d84-55e3-4d29-9915-a09eb245d40d.png)
+
 ### Welcome to my profile 👋
 
-### I'm a backend developer 😄
 👋 Hi ! I'm a software developer student with knowledge in NodeJS, Javascript, HTML, CSS, Java, MySQL and MongoDB. Feel free to reach out!
 
 - 🔭 I’m currently studying backend skills.
