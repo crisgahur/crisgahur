@@ -39,4 +39,4 @@ Some of the projects:
 ## 📡 Find me there:
 
 - My email: <a style="margin-left: 8px;" href="mailto:cris.gahur@hotmail.com.com">cris.gahur@hotmail.com</a>
-- [LinkedIn](www.linkedin.com/in/cristiangh100/) where I write programming post and my professional background. 
+- [LinkedIn](https://www.linkedin.com/in/cristiangh100/) where I write programming post and my professional background. 
