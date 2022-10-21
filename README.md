@@ -19,6 +19,7 @@ I really enjoy investing my time in technology projects, watch how all the piece
 Some of the projects:
 - [API Rest with Node JS and Express](https://dashboard.heroku.com/apps/restserver-node-cg)
 - [API Rest with MySQL, Springboot, Javascript](https://github.com/crisgahur/CANTERA2/tree/Workshop8)
+- [API with GraphQL, NodeJS and Express](https://github.com/crisgahur/NodeJS-Express-Graphql)
 - [Frontend project using JS, html and CSS](https://github.com/crisgahur/CANTERA1/tree/TallerFinal1)
 
 ## 🏅Technologies that I've used.
