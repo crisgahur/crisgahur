@@ -17,10 +17,9 @@
 I really enjoy investing my time in technology projects, watch how all the pieces work together, it makes me feel thrilled, programming is that I use for communicate with those pieces. I've worked with JavaScript and Java. Right now, I implement them in order to do web apps in the Backend.
 
 Some of the projects:
-- [API Rest with Node JS and Express](https://dashboard.heroku.com/apps/restserver-node-cg)
+- [API Rest adapted to a store with Node JS, Express, MongoDB, JWT](https://github.com/crisgahur/Node-Restserver)
 - [API Rest with MySQL, Springboot, Javascript](https://github.com/crisgahur/CANTERA2/tree/Workshop8)
 - [API with GraphQL, NodeJS and Express](https://github.com/crisgahur/NodeJS-Express-Graphql)
-- [Frontend project using JS, html and CSS](https://github.com/crisgahur/CANTERA1/tree/TallerFinal1)
 
 ## 🏅Technologies that I've used.
 
