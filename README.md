@@ -19,7 +19,7 @@ I really enjoy investing my time in technology projects, watch how all the piece
 Some of the projects:
 - [API Rest adapted to a store with Node JS, Express, MongoDB, JWT](https://github.com/crisgahur/Node-Restserver)
 - [API Rest with MySQL, Springboot, Javascript](https://github.com/crisgahur/CANTERA2/tree/Workshop8)
-- [API with GraphQL, NodeJS and Express](https://github.com/crisgahur/NodeJS-Express-Graphql)
+- [Quening program using Express, Socket.io](https://github.com/crisgahur/Socketio)
 
 ## 🏅Technologies that I've used.
 
