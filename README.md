@@ -3,7 +3,7 @@
 ## About me...
 👋 Hi ! I'm a software developer student with knowledge in NodeJS, Javascript, HTML, CSS, Java, MySQL and MongoDB. Feel free to reach out!
 
-🐉 I’m looking to collaborate on new side projects
+🐉 I’m looking for work opportunities
 
 🔭 Right now, I am improving my soft skills.
 
