@@ -34,7 +34,12 @@ Some of the projects:
 
 | *GitHub Stats* | *Programming Languages* |
 ---|---  
-| ![NousCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=crisgahur&show_icons=true&theme=slateorange ) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisgahur&layout=compact&theme=slateorange )](https://github.com/anuraghazra/github-readme-stats) |
+<a href="https://github.com/crisgahur/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crisgahur&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/crisgahur/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crisgahur&repo=crisgahur.github.io&theme=buefy" />
+</a>
 
 ## 📡 Find me there:
 
