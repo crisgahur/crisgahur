@@ -31,15 +31,7 @@ Some of the projects:
 | :---: | :---: | :---: |
 | ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) | ![MySQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![git](	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ## Check some of my stats
-
-| *GitHub Stats* | *Programming Languages* |
----|---  
-<a href="https://github.com/crisgahur/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crisgahur&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/crisgahur/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crisgahur&repo=crisgahur.github.io&theme=buefy" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisgahur)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📡 Find me there:
 
