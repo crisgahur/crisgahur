@@ -29,9 +29,9 @@ Some of the projects:
 
 | **Cloud Services** | **Data Bases** | **Dev Tools** | **OS** |
 | :---: | :---: | :---: | :---: |
-| ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) | ![MySQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![git](	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+| ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) | ![MySQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![git](	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![LinuxMint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ## Check some of my stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisgahur)](https://github.com/anuraghazra/github-readme-stats) ![LinuxMint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisgahur)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## 📡 Find me there:
 
