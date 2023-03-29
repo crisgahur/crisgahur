@@ -26,7 +26,6 @@ Some of the projects:
 - [Quening program using Express, Socket.io](https://github.com/crisgahur/Socketio)
 
 ## 🏅Technologies that I've used.
-<p align="center">
   
 | **Programming** | **Back End**| **Front End** |
 | :---: | :---: | :---: |
@@ -36,7 +35,6 @@ Some of the projects:
 | :---: | :---: | :---: | :---: |
 | ![Heroku]( https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![AzureDevops]( https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) | ![MySQL]( https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB]( https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Netbeans]( https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white) ![Vscode]( https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) | ![Windows]( https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![LinuxMint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
   
- </p>
  
 ## Check some of my stats
 <p align="center">
